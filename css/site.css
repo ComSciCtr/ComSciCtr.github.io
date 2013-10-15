@@ -1,0 +1,30 @@
+.lead { 
+   color: #888; 
+}
+
+header {
+   margin-top: 25px; 
+}
+
+header h3 { 
+   color: #bbb; 
+}
+
+footer { 
+   color: #ccc;
+   font-size: 9pt;
+   margin-top: 40px;
+   padding-top: 30px;
+}
+
+footer a { 
+   color: #999;
+}
+
+footer li i { 
+   margin-right: 15px; 
+}
+
+footer li a:hover { 
+   text-decoration: none; 
+}
